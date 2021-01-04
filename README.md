@@ -1,6 +1,6 @@
 BSD 3-Clause License
 
-Copyright (c) 2019, Quality Technology Services, LLC 
+Copyright (c) 2021, Quality Technology Services, LLC 
 All rights reserved.
 
 # qts-api
